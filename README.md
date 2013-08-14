@@ -1,4 +1,4 @@
 pickler
 =======
 
-Pickle viewer
+Pickle files viewer based on Tk.
